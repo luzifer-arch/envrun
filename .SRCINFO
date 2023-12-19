@@ -1,13 +1,13 @@
 pkgbase = envrun
 	pkgdesc = Helper utility to inject environment variables stored in a file into processes
-	pkgver = 0.7.1
+	pkgver = 0.7.2
 	pkgrel = 1
 	url = https://github.com/Luzifer/envrun
 	arch = i686
 	arch = x86_64
 	license = Apache
 	makedepends = go
-	source = envrun-0.7.1.tar.gz::https://github.com/Luzifer/envrun/archive/v0.7.1.tar.gz
-	sha512sums = 2bf8c60857cd67ab6fad99d20f0b28333ba5c0041edd087d91f504a23c04b1b3e4b10c2a93fcacf67f33afefbae50a7adead5cfdc68923114bc2d22ff310602f
+	source = envrun-0.7.2.tar.gz::https://github.com/Luzifer/envrun/archive/v0.7.2.tar.gz
+	sha512sums = 0724c09ab68480a5860325e2b7f6a48c224dd45dcee39b172c771bafacbaef609921fb7abd2648242b8e0ae879af187d95983875e88bfc983a64eee769c0cdf5
 
 pkgname = envrun
