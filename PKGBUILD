@@ -1,7 +1,7 @@
 # Maintainer: Knut Ahlers <knut at ahlers dot me>
 
 pkgname=envrun
-pkgver=0.7.4
+pkgver=0.7.4 # renovate: depName=Luzifer/envrun datasource=github-releases
 pkgrel=1
 pkgdesc="Helper utility to inject environment variables stored in a file into processes"
 arch=('i686' 'x86_64')
